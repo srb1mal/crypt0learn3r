@@ -1,4 +1,4 @@
-100 Days of Learning (Hacking)
+# 100 Days of Learning (Hacking)
 
 
 Day (1-7) – Learn about basics computer {Theory & Practical}
